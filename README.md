@@ -1,5 +1,3 @@
-Certainly! Below is your step-by-step guide converted into a README format suitable for GitHub.
-
 ---
 
 # Social Login in Django Using Google & GitHub | Django-allauth
